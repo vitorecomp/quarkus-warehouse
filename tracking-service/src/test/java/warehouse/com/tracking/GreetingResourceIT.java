@@ -1,4 +1,4 @@
-package warehouse.com;
+package warehouse.com.tracking;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
